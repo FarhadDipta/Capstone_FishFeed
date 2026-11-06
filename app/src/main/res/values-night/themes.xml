@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema gelap sistem: latar window gelap agar tidak ada kilatan putih saat aplikasi dibuka. -->
+    <style name="Theme.FishFeed" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@color/ff_primary_dark</item>
+        <item name="android:navigationBarColor">#FF18211F</item>
+        <item name="android:windowBackground">#FF0E1513</item>
+    </style>
+</resources>

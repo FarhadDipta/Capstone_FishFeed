@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FishFeed</string>
+    <string name="widget_description">Jadwal pakan lele terdekat tanpa membuka aplikasi</string>
+    <string name="widget_confirm">Sudah Diberi Pakan</string>
+    <string name="notif_channel_name">Pengingat Pakan</string>
+    <string name="notif_channel_desc">Alarm dan notifikasi saat waktu pemberian pakan tiba</string>
+    <string name="reminder_title">Waktunya memberi pakan</string>
+    <string name="reminder_test_title">Uji pengingat FishFeed</string>
+    <string name="reminder_test_content">Pengingat pakan sedang diuji</string>
+    <string name="reminder_processing">Pengingat pakan sedang diproses</string>
+    <string name="alarm_finished">Pengingat ini sudah selesai.</string>
+    <string name="alarm_close">Tutup</string>
+    <string name="alarm_snooze_ended">Masa jeda berakhir</string>
+    <string name="alarm_due">Waktunya memberi pakan</string>
+    <string name="alarm_confirm">Sudah Diberi Pakan</string>
+    <string name="alarm_snooze">Jeda</string>
+    <string name="alarm_not_fed">Tidak Diberi Pakan</string>
+    <string name="reminder_check_title">Pemeriksaan Pengingat</string>
+    <string name="reminder_notifications">Notifikasi</string>
+    <string name="reminder_exact_alarm">Alarm tepat waktu</string>
+    <string name="reminder_full_screen">Layar penuh</string>
+    <string name="reminder_battery">Penghematan baterai</string>
+    <string name="reminder_status_ready">Siap</string>
+    <string name="reminder_status_action">Perlu tindakan</string>
+    <string name="reminder_settings_action">Atur</string>
+    <string name="reminder_test_action">Uji pengingat sekarang</string>
+    <string name="reminder_test_needs_schedule">Tambahkan Jadwal Pakan untuk menjalankan uji.</string>
+    <string name="reminder_test_scheduled">Uji pengingat dimulai dalam 5 detik.</string>
+    <string name="sound_picker_system">Pilih nada dari perangkat</string>
+    <string name="sound_picker_file">Pilih berkas audio</string>
+    <string name="sound_test">Uji suara</string>
+    <string name="permission_notifications_missing">Notifikasi belum diizinkan. Pengingat pakan tidak akan muncul.</string>
+    <string name="permission_exact_alarm_missing">Izin alarm tepat waktu belum aktif. Pengingat bisa terlambat.</string>
+    <string name="permission_full_screen_missing">Izin layar penuh belum aktif. Halaman alarm mungkin tidak tampil saat layar terkunci.</string>
+    <string name="reminder_status_source">Status izin dibaca dari pengaturan perangkat.</string>
+    <string name="reminder_test_no_schedule">Tambahkan Jadwal Pakan untuk menjalankan uji.</string>
+    <string name="reminder_test_delay">Uji pengingat dimulai dalam 5 detik.</string>
+    <string name="alarm_close_repeat">Tutup, pengingat tetap aktif</string>
+</resources>

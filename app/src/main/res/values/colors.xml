@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ff_primary">#1B7F6B</color>
+    <color name="ff_primary_dark">#0F5C4D</color>
+    <color name="ff_background">#F2FAF9</color>
+    <color name="ff_text_dark">#12332D</color>
+    <color name="ff_text_muted">#5E7A75</color>
+    <color name="ff_pending">#D64545</color>
+    <color name="ic_launcher_background">#1B7F6B</color>
+</resources>
